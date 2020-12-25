@@ -139,7 +139,7 @@ class Bottleneck(nn.Module):
 
 class PyramidNet(nn.Module):
         
-    def __init__(self, dataset='cifar10', depth=158, alpha=56, num_classes=10, bottleneck=True):
+    def __init__(self, dataset='cifar10', depth=240, alpha=40, num_classes=10, bottleneck=True):
         super(PyramidNet, self).__init__()   	
         self.dataset = dataset
         if self.dataset.startswith('cifar'):
