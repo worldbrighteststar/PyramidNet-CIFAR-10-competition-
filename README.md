@@ -10,4 +10,4 @@ KHU ML course CIFAR-10 competition(2020.11.)
 2. Label-Smoothing
 
 # 결과
-92.325%
+TEST acc : 92.325%
