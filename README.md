@@ -1,7 +1,7 @@
 # PyramidNet-CIFAR-10-competition-
 KHU ML course CIFAR-10 competition(2020.11.)
 
-#  모델
+# 선택 모델
 PyramidNet
 
 # 조건
