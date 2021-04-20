@@ -13,7 +13,7 @@ PyramidNet을 선택하게 되었다.
 
 # 조건
 1. 파라미터 개수 200만개 이하
-2. 주어진 dataset만 활용
+2. 주어진 dataset만 활용(train, valid, test : each 90000)
 
 # 사용 기법
 1. Cut-Mix
